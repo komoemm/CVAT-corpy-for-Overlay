@@ -1,0 +1,6 @@
+{
+  "name": "Dataset Mask Blender",
+  "description": "An offline-first, high-performance tool to batch overlay and blend computer vision training images with CVAT segmentation mask overlays locally in the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
